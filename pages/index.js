@@ -12,7 +12,7 @@ export default function Home() {
       />
       <Card 
         titulo="Ovo com bacon"
-        imagem="/receita-arroz-pepino.png"
+        imagem="/receita-ovo.png"
         preparo="5 minutos"
         porcoes="serve 1 pessoa"
       />

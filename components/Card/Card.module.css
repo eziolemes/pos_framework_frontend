@@ -3,15 +3,15 @@
     border-radius: 10px;
 }
 
-.card-image {
+.card_image {
     max-width: 100%;
 }
 
-.card-title {
+.card_title {
     background-color: #EB5757;
     color: #fff;
 }
 
-.card-info {
+.card_info {
     font-size: 12px;
 }
