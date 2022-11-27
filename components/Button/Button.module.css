@@ -1,0 +1,22 @@
+.button {
+    padding: 1rem;
+    border: 1px solid rgb(35, 98,199);
+    border-radius: 0.5rem;
+    background-color: rgb(35, 98,199);
+    color: #fff;
+}
+
+.danger {
+    background-color: rgb(196, 29, 29);
+    border-color: rgb(196, 29, 29);
+}
+
+.success {
+    background-color: rgb(29, 146, 29);
+    border-color: rgb(29, 146, 29);
+}
+
+.warning {
+    background-color: rgb(196, 146, 29);
+    border-color: rgb(196, 146, 29);
+}

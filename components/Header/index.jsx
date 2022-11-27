@@ -1,6 +1,8 @@
+import styles from './Header.module.css';
+
 export default function Header () {
     return (
-        <header className="header">
+        <header className={styles.header}>
             <div>
                 <img src="/logo.svg" alt="Logo" />
             </div>
